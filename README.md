@@ -8,6 +8,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br>
+<br>
 
 ### Languages and tools
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
@@ -36,6 +37,7 @@
 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
 
+<br>
 <br>
 
 ### Latest Pieces on Medium
