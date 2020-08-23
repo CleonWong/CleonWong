@@ -40,6 +40,9 @@
 
 ### Latest Pieces on Medium
 <!-- MEDIUM:START -->
+- [How We Made Profits Forecasting Wind Energy Production Levels](https://towardsdatascience.com/how-we-made-profits-forecasting-wind-energy-production-levels-b93bd3a7f1ed?source=rss-25cfa5ca1084------2)
+- [How I Taught Myself Linked Lists](https://towardsdatascience.com/how-i-taught-myself-linked-lists-72c4837ea721?source=rss-25cfa5ca1084------2)
+- [Wading Into Venture Capital: My Summer at Anthemis](https://medium.com/anthemis-insights/wading-into-venture-capital-my-summer-at-anthemis-c3a83066a13e?source=rss-25cfa5ca1084------2)
 <!-- MEDIUM:END -->
 
 
