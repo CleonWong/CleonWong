@@ -27,6 +27,10 @@
 
 <img align="left" alt="Plotly" width="46px" src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" />
 
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
+
+<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
+
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -35,16 +39,11 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
-
 <br>
 <br>
 
 ### Latest Pieces on Medium
 <!-- MEDIUM:START -->
-- [How We Made Profits Forecasting Wind Energy Production Levels](https://towardsdatascience.com/how-we-made-profits-forecasting-wind-energy-production-levels-b93bd3a7f1ed?source=rss-25cfa5ca1084------2)
-- [How I Taught Myself Linked Lists](https://towardsdatascience.com/how-i-taught-myself-linked-lists-72c4837ea721?source=rss-25cfa5ca1084------2)
-- [Wading Into Venture Capital: My Summer at Anthemis](https://medium.com/anthemis-insights/wading-into-venture-capital-my-summer-at-anthemis-c3a83066a13e?source=rss-25cfa5ca1084------2)
 <!-- MEDIUM:END -->
 
 
