@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Cleon.
+
+### Connect with me:
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Languages and tools:
 
 <!--
 **CleonWong/CleonWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[twitter]: https://twitter.com/CleonW_
+[linkedin]: https://linkedin.com/in/cleonwong/
