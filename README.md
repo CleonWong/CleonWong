@@ -1,5 +1,10 @@
 ### Hi there!
 
+I'm Cleon, an autodidact and enthusiast in the theories and applications of deep tech. My interest in **creation with code** sprouted from my works as a junior data scientist at a venture capital firm and I have never looked back since.
+
+- **Current learnings:** Fastai's [fastbook](https://github.com/fastai/fastbook)
+- **Current personal project:** Colouring-Pokemon ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=Colouring-Pokemon)
+
 ---
 
 ### Connect with me
