@@ -8,6 +8,15 @@ I'm Cleon, an autodidact and enthusiast in the theories and applications of deep
 
 ---
 
+### Latest Pieces on Medium
+<!-- MEDIUM:START -->
+- [How We Made Profits Forecasting Wind Energy Production Levels](https://towardsdatascience.com/how-we-made-profits-forecasting-wind-energy-production-levels-b93bd3a7f1ed?source=rss-25cfa5ca1084------2)
+- [How I Taught Myself Linked Lists](https://towardsdatascience.com/how-i-taught-myself-linked-lists-72c4837ea721?source=rss-25cfa5ca1084------2)
+- [Wading Into Venture Capital: My Summer at Anthemis](https://medium.com/anthemis-insights/wading-into-venture-capital-my-summer-at-anthemis-c3a83066a13e?source=rss-25cfa5ca1084------2)
+<!-- MEDIUM:END -->
+
+---
+
 ### Connect with me
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -44,16 +53,6 @@ I'm Cleon, an autodidact and enthusiast in the theories and applications of deep
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br>
-<br>
-
-### Latest Pieces on Medium
-<!-- MEDIUM:START -->
-- [How We Made Profits Forecasting Wind Energy Production Levels](https://towardsdatascience.com/how-we-made-profits-forecasting-wind-energy-production-levels-b93bd3a7f1ed?source=rss-25cfa5ca1084------2)
-- [How I Taught Myself Linked Lists](https://towardsdatascience.com/how-i-taught-myself-linked-lists-72c4837ea721?source=rss-25cfa5ca1084------2)
-- [Wading Into Venture Capital: My Summer at Anthemis](https://medium.com/anthemis-insights/wading-into-venture-capital-my-summer-at-anthemis-c3a83066a13e?source=rss-25cfa5ca1084------2)
-<!-- MEDIUM:END -->
 
 
 [twitter]: https://twitter.com/CleonW_
