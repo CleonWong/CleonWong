@@ -4,7 +4,7 @@ I'm Cleon, an autodidact and enthusiast in the programming, software development
 
 - **Current learnings:** Building webapps - _Stay tuned for product launch!_
 - **Current personal project:**
-  <br>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=Colouring-Pokemon)
+  <br>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=solotto-frontend)
 
 ---
 
