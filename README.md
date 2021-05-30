@@ -2,9 +2,13 @@
 
 I'm Cleon, an autodidact and enthusiast in the programming, software development and deep learning. My interest in **creation with code** sprouted from my works as a junior data scientist at a venture capital firm and I have never looked back since.
 
-- **Current learnings:** Building webapps - _Stay tuned for product launch!_
-- **Current personal project:**
-  - [solotto-frontend](https://github.com/CleonWong/solotto-frontend): Building a lottery game on the Solana blockchain network.
+### Current learnings
+
+- Building webapps - _Stay tuned for product launch!_
+
+### Current personal project
+
+- [solotto-frontend](https://github.com/CleonWong/solotto-frontend): Building a lottery game on the Solana blockchain network.
   <!-- <br>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=solotto-frontend) -->
 
 ---
