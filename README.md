@@ -1,15 +1,20 @@
 ### Hi there!
 
-I'm Cleon, an autodidact and enthusiast in the theories and applications of deep tech. My interest in **creation with code** sprouted from my works as a junior data scientist at a venture capital firm and I have never looked back since.
+I'm Cleon, an autodidact and enthusiast in the programming, software development and deep learning. My interest in **creation with code** sprouted from my works as a junior data scientist at a venture capital firm and I have never looked back since.
 
-- **Current learnings:** Fastai's [fastbook](https://github.com/fastai/fastbook)
+- **Current learnings:** Building webapps - _Stay tuned for product launch!_
 - **Current personal project:**
-<br>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=Colouring-Pokemon)
+  <br>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=Colouring-Pokemon)
 
 ---
 
 ### Latest Pieces on Medium
+
 <!-- MEDIUM:START -->
+
+- [Can You Find the Breast Tumours? (Part 3 of 3)](https://towardsdatascience.com/can-you-find-the-breast-tumours-part-3-of-3-388324241035)
+- [Can You Find the Breast Tumours? (Part 2 of 3)](https://towardsdatascience.com/can-you-find-the-breast-tumours-part-2-of-3-1d43840707fc)
+- [Can You Find the Breast Tumours? (Part 1 of 3)](https://towardsdatascience.com/can-you-find-the-breast-tumours-part-1-of-3-1473ba685036)
 - [How We Made Profits Forecasting Wind Energy Production Levels](https://towardsdatascience.com/how-we-made-profits-forecasting-wind-energy-production-levels-b93bd3a7f1ed?source=rss-25cfa5ca1084------2)
 - [How I Taught Myself Linked Lists](https://towardsdatascience.com/how-i-taught-myself-linked-lists-72c4837ea721?source=rss-25cfa5ca1084------2)
 - [Wading Into Venture Capital: My Summer at Anthemis](https://medium.com/anthemis-insights/wading-into-venture-capital-my-summer-at-anthemis-c3a83066a13e?source=rss-25cfa5ca1084------2)
@@ -18,6 +23,7 @@ I'm Cleon, an autodidact and enthusiast in the theories and applications of deep
 ---
 
 ### Connect with me
+
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -26,6 +32,15 @@ I'm Cleon, an autodidact and enthusiast in the theories and applications of deep
 <br>
 
 ### Languages and tools
+
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
 <img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
@@ -53,7 +68,6 @@ I'm Cleon, an autodidact and enthusiast in the theories and applications of deep
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 
 [twitter]: https://twitter.com/CleonW_
 [linkedin]: https://linkedin.com/in/cleonwong/
