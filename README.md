@@ -53,7 +53,7 @@ I'm Cleon, an autodidact and enthusiast in the programming, software development
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 
-<img align="left" alt="Numpy" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/numpy.svg" />
+<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/numpy.svg" />
 
 <img align="left" alt="Plotly" width="46px" src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" />
 
