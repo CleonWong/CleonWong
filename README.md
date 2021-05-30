@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! :wave:
 
 I'm Cleon, an autodidact and enthusiast in the programming, software development and deep learning. My interest in **creation with code** sprouted from my works as a junior data scientist at a venture capital firm and I have never looked back since.
 
