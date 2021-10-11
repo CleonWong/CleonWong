@@ -4,7 +4,7 @@ I'm Cleon, an autodidact and enthusiast in the programming, software development
 
 ### Current learnings
 
-- Building webapps - _Stay tuned for product launch!_
+- Building webapps - [socean.fi](https://socean.fi)
 
 ### Current personal project
 
