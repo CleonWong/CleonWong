@@ -1,15 +1,11 @@
 ### :wave: Hi there!
 
-I'm Cleon, an autodidact and enthusiast in the programming, software development and deep learning. My interest in **creation with code** sprouted from my works as a junior data scientist at a venture capital firm and I have never looked back since.
+I'm Cleon, a founder-turned-product manager. I'm looking for the next big thing to build and to make my own dent in this world.
 
-### Current learnings
+### Current projects
 
-- Building webapps - [socean.fi](https://socean.fi)
-
-### Current personal project
-
-- [solotto-frontend](https://github.com/CleonWong/solotto-frontend): Building a lottery game on the Solana blockchain network.
-  <!-- <br>![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CleonWong&repo=solotto-frontend) -->
+- [https://ohsnapp.co](https://ohsnapp.co)
+- [https://socean.fi](https://socean.fi)
 
 ---
 
@@ -17,6 +13,7 @@ I'm Cleon, an autodidact and enthusiast in the programming, software development
 
 <!-- MEDIUM:START -->
 
+- [Founder-turned-PM: Best practices to help you build better products](https://medium.com/design-bootcamp/best-practices-to-help-you-build-better-products-cf791d37b5d3)
 - [Can You Find the Breast Tumours? (Part 3 of 3)](https://towardsdatascience.com/can-you-find-the-breast-tumours-part-3-of-3-388324241035)
 - [Can You Find the Breast Tumours? (Part 2 of 3)](https://towardsdatascience.com/can-you-find-the-breast-tumours-part-2-of-3-1d43840707fc)
 - [Can You Find the Breast Tumours? (Part 1 of 3)](https://towardsdatascience.com/can-you-find-the-breast-tumours-part-1-of-3-1473ba685036)
